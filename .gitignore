@@ -1,0 +1,5 @@
+#Precompiled files of PascalABC.NET 
+*.pcu
+*.resources
+*.fmabc
+*.opt
